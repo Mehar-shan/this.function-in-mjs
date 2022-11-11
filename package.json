@@ -1,0 +1,19 @@
+{
+  "name": "this.function-in-mjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mehar-shan/this.function-in-mjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mehar-shan/this.function-in-mjs/issues"
+  },
+  "homepage": "https://github.com/Mehar-shan/this.function-in-mjs#readme"
+}
